@@ -5,7 +5,9 @@ Rock Paper Scissor is a classic old school hand game which is usally played betw
 ## Three shapes with an outstreched hand :
 
 **_Rock_** : Denoted by a closed fist.
+
 **_Paper_** : Denoted by a flat hand.
+
 **_Scissor_** : Denoted by a fist with the index finger and middle finger extended, forming a V.
 
 ## Rules
@@ -19,7 +21,7 @@ Player with the maximum point wins.
 
 ## Code Base
 
-The code is simple and illustrates the basic if else condition for all the cases formed in the game conditions.
+The code is simple and illustrates the basic if else condition written in Python language for all the cases formed in the game conditions.
 
 Input by the player are given in the form of words : like "Rock".
 
