@@ -32,3 +32,5 @@ Then according to the both the input the if conditions are being checked and the
 After every round the scores are revealed to know who is winning.
 
 To end the game play the Player enters the "end" input which declares who scored how many points and who won by how much point difference.
+
+###### "IDE used VSCode"
