@@ -87,3 +87,4 @@ for i in range(num_of_msg):
     sleep(1)
     send.click()
     sleep(1)
+    
