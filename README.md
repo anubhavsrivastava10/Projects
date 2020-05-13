@@ -10,3 +10,4 @@ Small Scale Projects
   * **Telegram Spammer** enter the verification code manually.
 
 * Working on visualtization of the Crime Data in India.
+* Working on GIF generator
