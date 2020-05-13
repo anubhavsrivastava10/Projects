@@ -13,7 +13,7 @@ num_of_msg = 10 # change the number as per your convinence
 # install chromedriver / any other web browser driver (I have used chrome change the .Chrome as well)
 # and give it's location in the empty string
 # activating chromedriver
-driver = webdriver.Chrome("C:/Users/MY HP/Desktop/FSDP2019/DAY 08/chromedriver.exe")
+driver = webdriver.Chrome("C:.......................chromedriver.exe")
 
 # calling the whatsapp web url
 driver.get("https://web.whatsapp.com/")
