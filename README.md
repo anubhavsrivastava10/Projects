@@ -9,5 +9,9 @@ Small Scale Projects
   * **Whatspp Spammer** you will have to maually verify through the QR Code scan and rest the code will do itself.
   * **Telegram Spammer** enter the verification code manually.
 
-* Working on visualtization of the Crime Data in India.
 * Working on GIF generator
+  * Won't call it a project just a fun Oneliner. 
+  * **LOVE YODA**
+  
+* Working on visualtization of the Crime Data in India.
+
