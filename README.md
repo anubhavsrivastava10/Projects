@@ -16,5 +16,8 @@ Small Scale Projects
 * Age in Days
   * Used basics of HTML, CSS and JavaScript. The main purpose of this was to see how all these files connect together and work to create a     webpage.
   
+* Cat Generator
+  * Why don't you love CAT's !!
+  
 * Working on visualtization of the Crime Data in India.
 
