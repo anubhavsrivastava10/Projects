@@ -7,13 +7,13 @@
 
 .flex-box-container-2{
     display: flex;
-    border: 1px solid rgba(62, 46, 134, 0.76);
+    border: 1px solid black;
     flex-wrap: wrap;
     padding: 10px;
     justify-content: space-around;
 }
 
 .flex-box-container-2 img{
-    border: 1px solid rgb(194, 25, 194);
-    padding: 10px;
+    box-shadow: 0px 10px 50px rgba(62, 46, 0, 0.76);
+    margin: 10px;
 }
