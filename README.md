@@ -19,5 +19,9 @@ Small Scale Projects
 * Cat Generator
   * Why don't you love CAT's !!
   
+* Rock Paper Scissor_Advance_JS
+  * Used HTML, CSS, and JavaScript.
+  * Used some more functionality of JavaScript to provide more graphical content.
+  
 * Working on visualtization of the Crime Data in India.
 
