@@ -23,5 +23,10 @@ Small Scale Projects
   * Used HTML, CSS, and JavaScript.
   * Used some more functionality of JavaScript to provide more graphical content.
   
+* Human Activity Recognition
+  * It is a experiment with a group of 30 vlunteers and each person performed basic activites.
+  * Dataset is very large.
+  * [For more info CLICK HERE](https://github.com/anubhavsrivastava10/Projects/blob/master/Human_activity_recognition/Human_activity_recog.pdf)
+  
 * Working on visualtization of the Crime Data in India.
 
